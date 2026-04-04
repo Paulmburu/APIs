@@ -137,3 +137,6 @@ Awesome APIs based on [Angelica Dietzel](https://medium.com/@angelicacodes) [med
 - [OpenWeatherMap Air Pollution](https://openweathermap.org/api/pollution/co) - Access a carbon monoxide index for any location on Earth!
 - [RainViewer](https://www.rainviewer.com/api.html) - Provides access to mapping data of rainfall based on information from weather radars globally.
 - [Wunderground](https://www.wunderground.com/login) - Local and long-range weather forecast, weather reports, maps, and tropical weather conditions for locations worldwide in 80 languages.
+
+# Developer Tools
+- [ToolPipe API](https://github.com/COSAI-Labs/make-money-30day-challenge/tree/master/products/api-service) - 120+ free developer utility APIs: QR code generation, JSON/CSV/XML formatting, text analysis, hash generation (MD5/SHA256/SHA512), DNS lookup, Base64 encode/decode, UUID generation, regex testing, JWT decode, SSL checking, code review, and more. No API key required for free tier.
