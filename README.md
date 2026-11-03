@@ -124,6 +124,7 @@ Awesome APIs based on [Angelica Dietzel](https://medium.com/@angelicacodes) [med
 
 # Travel
 - [BlaBlaCar Search](https://dev.blablacar.com/hc/en-us) - Search for carpool trips, just as the BlaBlaCar’s website does.
+- [Bucketlist Dream of the Day](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) - Daily travel and experience inspiration in Dutch by default, with optional language and world-scope filters; no account or API key.
 - [FlightStats Weather API](https://www.programmableweb.com/api/flightstats-weather) - Up-to-date information on current weather conditions at an airport using tag annotations to identify prevailing conditions and notable hazards that may impact aviation.
 - [GraphHopper](https://docs.graphhopper.com/) - Integrate A-to-B route planning, turn-by-turn navigation, route optimization, isochrone calculations, and more.
 - [REFUGE Restrooms](https://www.refugerestrooms.org/api/docs/#!/restrooms) - Safe restroom access for transgender, intersex, and gender-nonconforming individuals — search restrooms by proximity to a search location, add new restroom listings, and comment and rate existing listings.
